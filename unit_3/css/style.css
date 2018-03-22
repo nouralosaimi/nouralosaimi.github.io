@@ -1,0 +1,24 @@
+  @import url(https://fonts.googleapis.com/css?family=Fugaz+One);
+
+body{
+	background:FBFFB4;
+	text-align: center;
+}
+h1{
+	font-family: Arial, sans-serif
+}
+h1{
+	font-size:80px;
+}
+p{
+	font-family: 'Fugaz One', cursive;
+}
+ul{
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 26px;
+	text-align: center;
+}
+#slogan{
+	font-style: italic;
+}
