@@ -1,0 +1,23 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+	text-align: center;
+}
+
+h1 {
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+header {
+    background-color: #662D91;
+    border: 100%;
+    padding: 0 auto;
+   
+}
+
+
+img {
+    width: 100%;
+  }
+
